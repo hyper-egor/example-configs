@@ -1,6 +1,7 @@
 # ------------------- Module-A specific settings -----------------
 module-a:
   server.port: 8081
+  profileDependentString: Default profile string
 
 
 # ------------------- Common settings for all modules ------------
